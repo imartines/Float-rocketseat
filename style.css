@@ -1,0 +1,92 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  margin: 0px ;
+  width: 100%;
+  height: 100%;
+  }
+  
+  #Floating {
+    width: 626px;
+    height: 614px;
+    margin: auto;
+  }
+  
+  #Floating img{
+    margin:68px auto 32px;
+  }
+  
+  
+  h1 {
+    width: 494px;
+    height: 40px;
+    margin: auto;
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color:#3f3d56
+  }
+  
+  h1 span {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 700;
+  color: #ee24ff
+  }
+  
+  
+  span {
+  font-family: 'Open Sans', sans-serif;
+  color: #3f3d56;
+  font-weight: bold;
+  }
+  
+  P { 
+    font-family: 'Open Sans', sans-serif;
+    color: #828282;
+    line-height: 22px;
+    font-size: 15px;
+    width: 540px;
+    height: 107px;
+    margin: 0px auto 0px;
+  }
+  
+  .line {
+  width: 391px;
+  height: 1;
+  border: 1px solid #ECEFF2;
+  margin: 0px auto 16px;
+  }
+  
+  #Footer {
+    font-family: 'Open Sans', sans-serif;
+    color:#3f3d56;
+    line-height: 22.15px;
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+  }
+ 
+  #Footer a + a{
+    margin-left: 42px;
+  }
+  
+  .Footer-wave{ 
+    position: fixed;
+    width:100%;
+    height: 104px;
+    bottom:0;
+    left: 0;
+    object-fit: cover;
+  }
+    
+  #Wave{
+    position: absolute;
+    height: 104px;
+    bottom:0;
+    left: 0;
+  }
+
+ 
